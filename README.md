@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/header.jpg">
+  <img width="300" height="300" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/header.jpg">
 </p>
 <p align="center">
 Photo by <a href="https://unsplash.com/@pascalvendel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal van de Vendel</a> on <a href="https://unsplash.com/photos/scuba-diver-watching-school-of-gray-fish-underwater-gcG_b9ijyqU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
@@ -35,28 +35,25 @@ The first figure below explains the initial findings of the data that was first 
 In this cleaning process, the essential first step was to split the data based on the delimiter '/' in the content column, which helps for easier parsing of individual components within each entry. Following this, some important values were selected from the split data, filtering out any irrelevant or redundant information. Moreover, some characters should be replaced to correct errors or standardized formats to maintain the consistency of the data frame.
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/plot02.PNG">
+  <img width="700" height="200" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/plot02.PNG">
 </p>
 
 After the data cleaning part, the data frame consists of 11 countries across Southeast Asia. Based on the bar plot, the Phillipines has the most diving sites among other countries, followed by Indonesia and Thailand. On the other hand, India has the smallest amount of diving sites in Southeast Asia. This makes sense since India is part of South Asia, and the inclusion of this dive site perhaps largely due to their geographical proximity relative to Southeast Asia.
 
 <p align="center">
-  <img width="500" height="250" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/plot03.png">
+  <img width="700" height="300" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/plot03.png">
 </p>
 
 How deep are these diving sites? That was my question. The figure indicates that the Philippines has the deepest dive site, reaching up to 120 meters. Vietnam has the shallowest dive site, which is around 18 meters.
 
 <p align="center">
-  <img width="500" height="250" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/plot04.png">
+  <img width="700" height="300" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/plot04.png">
 </p>
 
 In addition, I have created an interactive chart to visualize all the dive sites around Southeast Asia. The dropdown button was added for filtering countries to see dive sites, which provides a user-friendly way to explore dive sites by country that includes valuable information about dive types, water types, and entry.
 
 <p align="center">
-  <img width="400" height="200" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/plot05.gif">
-</p>
-<p align="center">
-Interactive chart can be accessed <a href="https://datapane.com/u/apradono94/reports/E7yl2P3/chart-3/">here</a>
+  <img width="800" height="300" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/plot05.gif">
 </p>
 
 ## IV. Conclusions
