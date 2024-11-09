@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/header.jpg">
+  <img width="250" height="250" src="https://github.com/a-pradono/padi_scuba_diving/blob/main/Images/header.jpg">
 </p>
 <p align="center">
 Photo by <a href="https://unsplash.com/@pascalvendel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pascal van de Vendel</a> on <a href="https://unsplash.com/photos/scuba-diver-watching-school-of-gray-fish-underwater-gcG_b9ijyqU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
